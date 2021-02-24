@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/stanfordnlp/CoreNLP.svg?branch=master)](https://travis-ci.org/stanfordnlp/CoreNLP)
 [![Maven Central](https://img.shields.io/maven-central/v/edu.stanford.nlp/stanford-corenlp.svg)](https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp)
 [![Twitter](https://img.shields.io/twitter/follow/stanfordnlp.svg?style=social&label=Follow)](https://twitter.com/stanfordnlp/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsingh-abhijeet%2FCoreNLP.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsingh-abhijeet%2FCoreNLP?ref=badge_shield)
 
 Stanford CoreNLP provides a set of natural language analysis tools written in Java. It can take raw human language text input and give the base forms of words, their parts of speech, whether they are names of companies, people, etc., normalize and interpret dates, times, and numeric quantities, mark up the structure of sentences in terms of phrases or word dependencies, and indicate which noun phrases refer to the same entities. It was originally developed for English, but now also provides varying levels of support for (Modern Standard) Arabic, (mainland) Chinese, French, German, and Spanish. Stanford CoreNLP is an integrated framework, which make it very easy to apply a bunch of language analysis tools to a piece of text. Starting from plain text, you can run all the tools with just two lines of code. Its analyses provide the foundational building blocks for higher-level and domain-specific text understanding applications. Stanford CoreNLP is a set of stable and well-tested natural language processing tools, widely used by various groups in academia, industry, and government. The tools variously use rule-based, probabilistic machine learning, and deep learning components.
 
@@ -63,3 +64,7 @@ For information about making contributions to Stanford CoreNLP, see the file [CO
 
 Questions about CoreNLP can either be posted on StackOverflow with the tag [stanford-nlp](http://stackoverflow.com/questions/tagged/stanford-nlp),
   or on the [mailing lists](https://nlp.stanford.edu/software/#Mail).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsingh-abhijeet%2FCoreNLP.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsingh-abhijeet%2FCoreNLP?ref=badge_large)
